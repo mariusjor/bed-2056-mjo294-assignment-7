@@ -1,0 +1,23 @@
+---
+title: "Mandatory homework assignment submission"
+author: "Marius Jørgensen"
+output:
+  html_document:
+    df_print: paged
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+<h2>The proportion of boys to girls</h2>
+
+![](proportion_males_to_females.png)
+
+<h2>The average birth weight in grams by gender</h2>
+
+![](average_birth_weight_in_grams_by_gender.png)
+
+<h2>The proportion of boys to girls by day of birth</h2>
+
+![](proportion_males_to_females_by_day_of_birth.png)
